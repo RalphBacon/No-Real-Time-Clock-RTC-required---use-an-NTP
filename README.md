@@ -36,6 +36,14 @@ https://www.banggood.com/3Pcs-WeMos-Micro-SD-Card-Shield-For-WeMos-D1-Mini-TF-Wi
 A power shield so you can it from a 7-12v supply (but the 5v phone charger on the ESP8266 board works too):  
 https://www.banggood.com/3Pcs-WeMos-DC-Power-Shield-V1_0_0-For-WeMos-D1-Mini-p-1189337.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
+All about the NTP protocol:   
+https://tttapa.github.io/ESP8266/Chap15%20-%20NTP.html
+
+List of all ports in use:  
+https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
+
+More on time zones (I will implement this in my project code):  
+https://github.com/JChristensen/Timezone
 
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey!
 
