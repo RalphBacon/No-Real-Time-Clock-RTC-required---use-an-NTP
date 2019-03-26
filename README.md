@@ -5,13 +5,14 @@ Forget using a RTC module, even though they are accurate and cheap. Use an NTP s
 #### (Direct link to video: https://youtu.be/RCDBPsi01_c)
 
 ### Sponsored by LCSC Electronics - More Asian Brands, Lower Prices, 4 Hours Ready for Shipping
-#### More Asian Brands Lower Price http://lcsc.com
 ```
 Founded in 2011, after 6-year striving and accumulation of experience, LCSC has become the fastest
 developing online store of electronic components in China, serving 530,000 customers and processing
 around 2,000 online orders per day by 2017. LCSC has a strong commitment to offering a wide selection
 of genuine, high-quality electronic components at best price.
 ```
+#### More Asian Brands Lower Price http://lcsc.com
+
 I need to know the **date & time** for my project - but no **DS3231** RTC (Real Time Clock) is required.
 
 So my current Home Alone project requires the Date and Time to work properly. I immediately ordered a small **RTC shield** for my Wemos D1 mini - only to quickly realise I should not have bothered as I can get the date and time very accurately from a Network Time Protocol server and keep a local, accurate clock that drifts very infrequently thanks to a wonderful library, courtesy of Arduino.cc
@@ -24,7 +25,8 @@ Here we dive deep into **the simple C++ code** that is required to do all this w
 
 In a future video, I'll show you how you can convert the UTC (universal coordinated time) to local time. Easy to do, and works worldwide.
 
-Links
+#### Links (these may be affiliated which means that they might help my channel at no cost to you)  
+
 Wemos D1 Mini ESP8266 One is cheap but better value if you get 3 or 5. Also check out the different warehouses, in USA, CN and UK.  
 https://www.banggood.com/Wemos-D1-Mini-V3_0_0-WIFI-Internet-Of-Things-Development-Board-Based-ESP8266-4MB-p-1264245.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
